@@ -6,6 +6,6 @@ Configured the database and implemented necessary Endpoints to enable search, up
 API testing was performed using Postman for seamless integration.
 
 Tools used used: IntelliJ IDEA, Mongo Compass, Spring Initialzr, Maven, PostMan
-Libraries used: Lombok, 
+Libraries used: Lombok.
 
 
